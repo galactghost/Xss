@@ -1,2 +1,2 @@
 // malicious-script.js
-alert('XSS attack successful!');
+print('XSS attack successful!');
